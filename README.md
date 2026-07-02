@@ -93,7 +93,7 @@ This real-time feedback assists in debugging, testing, and validating system beh
 
 # Source Code
 
-The complete Arduino sketch for this project is available in the project's [code_here]() directory.
+The complete Arduino sketch for this project is available in the project's [code_here](code/button_brightness_controlled_project_on_11th_november_2025.ino) directory.
 
 ---
 
