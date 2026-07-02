@@ -40,7 +40,7 @@ This project was developed to demonstrate key embedded systems concepts, includi
 
 # Circuit Diagram
 
-The ![circuit_diagram]() illustrating the complete hardware connections is included in this repository.
+The ![circuit_diagram](images/led.jpg) illustrating the complete hardware connections is included in this repository.
 
 Additional project images are also available for reference.
 
